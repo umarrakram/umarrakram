@@ -1,20 +1,20 @@
 # Umar Akram
 
 **iOS Developer | Computer Science Student**  
-[LinkedIn](https://linkedin.com/in/umarrakram) • [GitHub](https://github.com/umarrakram) • **uamirad00@gmail.com**
+[LinkedIn](https://linkedin.com/in/umarrakram) • **uamirad00@gmail.com**
 
 ---
 
-### 👋 About Me
+###  About Me
 Aspiring and passionate iOS Developer with a strong foundation in computer science. Currently pursuing a Bachelor of Science in Computer Science and Information Technology at Egypt-Japan University of Science and Technology. With proven experience in building robust, high-performance iOS applications, I specialize in scalable architectures and intuitive UI/UX design, driven by a commitment to excellence in every project.
 
 ---
 
-### 💼 Professional Experience
+###  Professional Experience
 **iOS Developer at Onvo**  
 *Cairo, March 2024 - Present*
 
-- **Social Networking App:** Led the development of a social app using Swift and SwiftUI, achieving a 40% increase in user engagement.
+- **Onvo Social Networking:** Led the development of a social app using Swift and SwiftUI, achieving a 40% increase in user engagement and reduced delay time by 3 seconds, also decreasing app crashes incidents by 12%.
 - **Onvo TV:** Engineered a video streaming service with WebKit, enhancing streaming quality by 35% for optimal user experience.
 - **Seamless Back-End Integration:** Integrated front-end components with back-end systems using Vapor and WebGCD, improving application responsiveness by 50%.
 - **Low-Latency Streaming Server:** Deployed peer-to-peer algorithms with WebRTC to reduce streaming latency by 30%.
@@ -22,7 +22,7 @@ Aspiring and passionate iOS Developer with a strong foundation in computer scien
 
 ---
 
-### 🔧 Technical Skills
+###  Technical Skills
 
 - **Languages:** Swift, Objective-C, C++, Python, Kotlin, C#
 - **iOS Frameworks:** SwiftUI, Core Data, Core Animation, Core Location, Core Motion, Core ML, Core Bluetooth
@@ -32,7 +32,7 @@ Aspiring and passionate iOS Developer with a strong foundation in computer scien
 
 ---
 
-### 📚 Projects
+###  Projects
 
 - **Hospital Tracking System:** Developed a secure Python-MySQL system for tracking patient data, integrating visualization tools for healthcare reporting.
 - **Course Registration App:** Built an iOS application for university course registration, incorporating real-time availability and recommendations.
@@ -42,10 +42,10 @@ Aspiring and passionate iOS Developer with a strong foundation in computer scien
 
 ---
 
-### 🌱 Currently Developing
+###  Currently Developing
 I am focused on advancing my knowledge in Swift concurrency, expanding expertise in SwiftUI for large-scale application development, and exploring machine learning integration through Core ML.
 
 ---
 
-### 📫 Connect with Me
-I am open to opportunities in iOS development and collaborations on impactful projects. Feel free to reach out via [LinkedIn](https://linkedin.com/in/umarrakram) or email at **uamirad00@gmail.com**.
+###  Connect with Me
+I am open to opportunities for Software Engineering especially in iOS development field and collaborations on impactful projects. Feel free to reach out via [LinkedIn](https://linkedin.com/in/umarrakram) or email at **uamirad00@gmail.com**.
